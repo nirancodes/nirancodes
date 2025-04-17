@@ -17,7 +17,7 @@ Hi there! 👋 I'm Niranjana, a Computer Engineering student at the University o
 - DevOps, Open Source Softwares, containerization, and site reliability engineering (SRE)
 - Real-time CV pipelines and ethical AI
 
-📬 I’m always open to collaborating, contributing to open-source, and learning from other builders. Feel free to explore my repos or connect with me on [LinkedIn](https://www.linkedin.com/in/niranjana-nambiar/)!
+📬 I’m always open to collaborating, contributing to open-source, and learning from other builders. Feel free to explore my repos or connect with me on [LinkedIn]([https://www.linkedin.com/in/niranjana-nambiar/)](https://www.linkedin.com/in/niranjana-nambiar/)!
 
 ---
 
