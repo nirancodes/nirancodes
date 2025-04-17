@@ -8,7 +8,8 @@ Hi there! 👋 I'm Niranjana, a Computer Engineering student at the University o
 🧠 I work with C/C++, Python, MATLAB, and JavaScript — and I'm diving deeper into Linux systems, trying to learn more about the Open Source world, ROS, and cloud-native development.
 
 🚀 Some of my recent projects include:
-- **AttendDetect**: a real-time employee monitoring tool using OpenCV, C++, and Windows API (now open source!)
+- **AttendDetect**: a real-time employee monitoring tool using OpenCV, C++, and Windows API
+- **DroneWatch**: a MATLAB-based drone path planner and network simulator using custom ACO to model packet loss and flag weak coverage zones.
 - **MedScope**: a disaster-response vision system using PyTorch + Gemini API, built in 24h at an MLH Hackathon
 - **HushAlerts**: a web-based inventory tracker tackling menstrual equity, built with JS and HTML5 Audio API
 
@@ -17,7 +18,7 @@ Hi there! 👋 I'm Niranjana, a Computer Engineering student at the University o
 - DevOps, Open Source Softwares, containerization, and site reliability engineering (SRE)
 - Real-time CV pipelines and ethical AI
 
-📬 I’m always open to collaborating, contributing to open-source, and learning from other builders. Feel free to explore my repos or connect with me on [LinkedIn]([https://www.linkedin.com/in/niranjana-nambiar/)](https://www.linkedin.com/in/niranjana-nambiar/)!
+📬 I’m always open to collaborating, learning to contribute to open-source, and gaining inspiration from other builders. Feel free to explore my repos or connect with me on [LinkedIn]([https://www.linkedin.com/in/niranjana-nambiar/)](https://www.linkedin.com/in/niranjana-nambiar/)!
 
 ---
 
