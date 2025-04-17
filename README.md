@@ -3,7 +3,7 @@
 ## 👋 About Me  
 Hi there! 👋 I'm Niranjana, a Computer Engineering student at the University of Toronto, passionate about building high-impact software with real-world relevance.
 
-🔧 I love solving system-level problems and designing reliable, scalable tools — whether it's improving drone communication networks or building intelligent, offline-first apps for public good.
+🔧 I love solving system-level problems and I am learning to make them reliable, scalable tools — whether it's improving drone communication networks or building intelligent, offline-first apps for public good.
 
 🧠 I work with C/C++, Python, MATLAB, and JavaScript — and I'm diving deeper into Linux systems, trying to learn more about the Open Source world, ROS, and cloud-native development.
 
