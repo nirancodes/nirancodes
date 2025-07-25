@@ -4,7 +4,7 @@ Second-year Computer Engineering student at UofT, building explainable AI for cy
 ---
 
 ## About Me  
-I specialize in trustworthy AI systems with a strong emphasis on security, observability, and clarity. Currently, I research cyberattack detection in smart grids (Kundur Group) and lead perception tooling for the UTFR Driverless team — developing automated cone labeling pipelines with Python and YOLOv8.
+I specialize in trustworthy AI systems with a strong emphasis on security, observability, and clarity. Currently, I research cyberattack detection in smart grids and lead perception tooling for the UTFR Driverless team — developing automated cone labeling pipelines with Python and YOLOv8.
 
 ---
 
