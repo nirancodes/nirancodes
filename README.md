@@ -11,12 +11,11 @@ I specialize in trustworthy AI systems with a strong emphasis on security, obser
 ## What I Build  
 - **SceneScore:** AI that maps photo moods to Spotify playlists using NLP and LLMs  
 - **DroneWatch:** Real-time drone network path planning & cyber simulation with MATLAB and ACO  
-- **KANs for AGC:** Symbolic ML for detecting stealthy cyberattacks in power grids  
-
+- **KANs for AGC:** Symbolic ML for detecting stealthy cyberattacks in power grids (still working on this!) 
 
 ---
 
 ## Let’s Connect  
-Explore my [GitHub](https://github.com/nirancodes) or try [PortfolioChat](#) — my AI assistant built on my own projects and research.  
+Explore my [GitHub](https://github.com/nirancodes). 
 Reach me at: niranjana.nambiar@mail.utoronto.ca  
 Toronto, Canada  
