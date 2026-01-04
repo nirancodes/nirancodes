@@ -16,6 +16,6 @@ I specialize in trustworthy AI systems with a strong emphasis on security, obser
 ---
 
 ## Let’s Connect  
-Explore my [GitHub](https://github.com/nirancodes). 
+https://nirancodes.github.io/NiranjanaPortfolio/! 
 Reach me at: niranjana.nambiar@mail.utoronto.ca  
 Toronto, Canada  
